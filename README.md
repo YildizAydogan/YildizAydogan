@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yildiz...</h1>
+<h1 align="center">Hi 👋, I'm Yildiz Aydogan</h1>
 <h3 align="center">I will be a Backend-Developer in Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yildizaydogan&label=Profile%20views&color=0e75b6&style=flat" alt="yildizaydogan" /> </p>
@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yildizaydogan" alt="yildizaydogan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+- I'm still learning, so I don't have a title. So far I have learned Java, Lambda, mySQL, Hibernate and jUnitTest. I improve myself every day. I will not delete this first article I wrote to customize my Git page. I know I will be a good Developer.💪
 - 🌱 I’m currently learning **Mongodb.**
 
 <h3 align="left">Connect with me:</h3>
