@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/YildizAydogan/YildizAydogan/blob/main/b09b963a94b70f42af81efebacfcc87b.jpg?raw=true">
+<p align="center"><img  src="https://github.com/YildizAydogan/YildizAydogan/blob/main/b09b963a94b70f42af81efebacfcc87b.jpg?raw=true"></p>
 
 <h1 align="center">Hi 👋, I'm Yildiz Aydogan</h1>
 <h3 align="center">I will be a Backend-Developer in Germany.</h3>
