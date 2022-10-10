@@ -8,12 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yildizaydogan" alt="yildizaydogan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- I'm still learning, so I don't have a title. So far I have learned Java, Lambda, mySQL, Hibernate,Postman,Mongodb, SpringMVC and jUnitTest. I improve myself every day. I will not delete this first article I wrote to customize my Git page. I know I will be a good Developer.💪
-
-<ul>
-  <li>I'm currently learning on SpringBoot </li>
-</ul>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
